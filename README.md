@@ -35,8 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/f77bff26-45dd-4c25-82c4-5528a94464b5"/> <br />
 
 1️⃣ Install osTicket ⤵️
 > 1. Unzip osTicket-v1.15.8.zip.
@@ -46,16 +45,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 > 5. Rename ost-config.php and assign permissions.
 > 6. Continue configuration of osTicket in browser.
 ---
-
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/60676b0c-d786-424d-815b-fa30ebc9f980"/> <br />
 
 2️⃣ Install HeidiSQL ⤵️
 > 1. Open HeidiSQL. Create a new session. Connect to the session. Create a database called **osTicket**.
 > 2. Continue configuration of osTicket in browser.
 > 3. Click Install Now.
 ---
-
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/87353174-dba7-44ff-8bb1-ffee16e240c6"/> <br />
 
 3️⃣ Login osTicket and Cleanup 🏁
 > 1. Browse to help desk login URL
