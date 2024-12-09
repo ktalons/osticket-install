@@ -7,7 +7,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [<img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" align="center" width="40" height="40">](https://www.youtube.com) [How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [<img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" align="center" width="40" height="40">](https://www.youtube.com/channel/UC9YvuJxKB94ByhwCfZQ_5Kg) [How To Install osTicket with Prerequisites](https://youtu.be/_0zx2qOCJ9k)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -23,7 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Create an Azure Virtual Machine Windows 10 - 4 vCPUs 
 - Install / Enable IIS in Windows with CGI
-  > World Wide Web Service -> Application Development Features -> ..CGI   
+  > Windows Features -> IIS -> World Wide Web Service -> Application Development Features -> check CGI box.  
 - Install PHP Manager / IIS URL Rewrite Module
 - Create PHP directory and unzip PHP package into directory
 - Install Microsoft Visual C++ Redistributable
