@@ -6,8 +6,8 @@
 > This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.
 - ⚠️ ost-config.php permission settings only used for demonstration purposes ⚠️
 - ⚠️ SQL database root login credentials only used for demonstration purposes ⚠️
-<br />
 
+---
 <h2>Video Demonstration</h2>
 
 - ### [<img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" align="center" width="40" height="40">](https://www.youtube.com/channel/UC9YvuJxKB94ByhwCfZQ_5Kg) [How To Install osTicket](https://youtu.be/_0zx2qOCJ9k)
@@ -34,7 +34,7 @@
 - Open IIS as Admin
 - Register PHP within IIS
   > PHP Manager -> C:\PHP\php-cgi.exe
-
+---
 
 <h2>Installation Steps</h2>
 
