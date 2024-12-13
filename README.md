@@ -43,7 +43,7 @@
 1️⃣ Install osTicket ⤵️
 > 1. Unzip osTicket-v1.15.8.zip.
 > 2. Copy __upload__ folder into __c:\inetpub\wwwroot__. Within __c:\inetpub\wwwroot__ rename __upload__ folder to __osTicket__. <br />
-> 3. Reload IIS. Go to sites -> Default -> osTicket -> click Browse *:80".
+> 3. Reload IIS. Go to sites -> Default -> osTicket -> click `Browse *:80`.
 > 4. Enable extensions within PHP Manager.
 > 5. Rename ost-config.php and assign permissions.
 > 6. Continue configuration of osTicket in browser.
@@ -53,7 +53,7 @@
 2️⃣ Install HeidiSQL ⤵️
 > 1. Open HeidiSQL. Create a new session. Connect to the session. Create a database called **osTicket**.
 > 2. Continue configuration of osTicket in browser.
-> 3. Click Install Now.
+> 3. Click `Install Now`.
 ---
 <img src="https://github.com/user-attachments/assets/87353174-dba7-44ff-8bb1-ffee16e240c6"/> <br />
 
