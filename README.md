@@ -60,5 +60,7 @@
 3️⃣ Login osTicket and Cleanup 🏁
 > 1. Browse to help desk login URL
 > 2. Browse to end user URL
-> 3. Optional Cleanup. Delete: C:\inetpub\wwwroot\osTicket\setup
+> 3. osTicket Security Cleanup.
+  > - Delete **C:\inetpub\wwwroot\osTicket\setup** folder.
+  >  - Set Permissions to `Read only`: **C:\inetpub\wwwroot\osTicket\include\ost-config.php**.
 ---
